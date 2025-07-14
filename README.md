@@ -1,5 +1,7 @@
 # Text Classification: Classic Neural Network vs. Transformer
 
+<img width="2816" height="1536" alt="neuronas" src="https://github.com/user-attachments/assets/8b7e7257-8d35-46b9-94d5-180d3f79565d" />
+
 This project implements and compares two deep learning architectures for multi-class text classification: a classic, fully connected neural network and a modern Transformer-based model. The goal is to evaluate their performance and understand the advantages of the self-attention mechanism in Transformers for NLP tasks.
 
 The project uses the well-known **20 Newsgroups dataset**, which contains approximately 20,000 messages distributed across 20 different thematic categories. The entire implementation is done using **TensorFlow** and **Keras**.
