@@ -62,11 +62,10 @@ Both models were trained for 20 epochs, and their performance on the validation 
 
 ## Code and Resources
 
-This repository contains the two main notebooks for this project, along with a detailed report (in Spanish).
+This repository contains the two main notebooks for this project.
 
-* **Classic Model Notebook:** **[red-clasica.ipynb](URL_DEL_CUADERNO_CLASICA)**
-* **Transformer Model Notebook:** **[red-transformers.ipynb](URL_DEL_CUADERNO_TRANSFORMERS)**
-* **Detailed Report:** **[actividad2.pdf](URL_DEL_INFORME)**
+* **Classic Model Notebook:** **[red-clasica.ipynb](https://github.com/davidcamilo0710/text_classification_comparison/blob/main/red_clasica.ipynb)**
+* **Transformer Model Notebook:** **[red-transformers.ipynb](https://github.com/davidcamilo0710/text_classification_comparison/blob/main/red_transformers.ipynb)**
 
 ## How to Use
 
